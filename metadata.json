@@ -1,0 +1,6 @@
+{
+  "name": "Transformasi Indonesia - Hipnoterapi Klinis, NGH-USA & NLP",
+  "description": "Portal resmi Transformasi Indonesia (Dr. Iwan D. Gunawan). Layanan Hipnoterapi Klinis Bandung & Jakarta, Sertifikasi Internasional NGH-USA, CH & C.Ht, dan Neo NLP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
